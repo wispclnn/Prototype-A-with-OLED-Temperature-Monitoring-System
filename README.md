@@ -1,10 +1,10 @@
 ##Prototype A with OLED – Temperature Monitoring System
  
- ##Description
+ ## Description
 
 Prototype A with OLED is a simple temperature monitoring system built using a DHT11 sensor, OLED display, and LED indicators. It displays real-time temperature readings on the OLED screen and visually indicates whether the environment is hot or cool using LEDs.
 
-##Components Used
+## Components Used
 
 * DHT11 Temperature Sensor
 
@@ -14,9 +14,9 @@ Prototype A with OLED is a simple temperature monitoring system built using a DH
 
 * Green LED (Cool indicator)
 
-Microcontroller (Arduino / ESP32)
+* Microcontroller (Arduino / ESP32)
 
-##How It Works
+## How It Works
 
 * Reads temperature from the DHT11 sensor
 
@@ -30,7 +30,7 @@ Microcontroller (Arduino / ESP32)
 
 * Updates every 2 seconds
 
-##Output
+## Output
 
 * OLED Display: Temperature value and status
 
@@ -38,7 +38,7 @@ Microcontroller (Arduino / ESP32)
 
 * Serial Monitor: Debug and temperature logs
 
-##Use Case
+## Use Case
 
 * Beginner Arduino/ESP32 project
 
